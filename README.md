@@ -1,1 +1,1 @@
-# Athreya-ML
+Currently working on a POC to monitor the labours in a factory so that they do not waste time. This application is AI based image processing. Currently developing a Proof of Concept (POC) for an AI/ML based application to monitor labour behaviour and hence optimise the efficiency in factory and minimise time wasting
